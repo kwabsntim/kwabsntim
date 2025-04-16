@@ -10,10 +10,11 @@
  📊 Data Science & Environmental Tech
 
 ## 👷 What I'm Working On
- 📚 Building projects from my semester courses (Control Systems, AC Machines, AI, etc.)
- 🧠 Learning ML and local LLMs to generate educational tools
- 🌦️ Creating a weather prediction dashboard using stats and real-time data
- 🚀 Anticipating to build an ISS tracker app
+
+- 📚 Building projects from my semester courses (`Control Systems`, `AC Machines`, `AI`, etc.)
+- 🧠 Learning ML and local LLMs to generate educational tools
+- 🌦️ Creating a weather prediction dashboard using stats and real-time data
+- 🛰️ Anticipating to build an ISS tracker app
     
 ## 🧰 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
