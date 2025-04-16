@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm *Kwabsntim*!
 
-🚀 I'm an Electrical Engineering student passionate about space, coding, and innovation**. I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍.*Hoping to share Ghana to the world 🇬🇭*.
+🚀 *I'm an Electrical Engineering student passionate about space, coding, and innovation**. I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍.*Hoping to share Ghana to the world 🇬🇭*.
 
 ## 🛠️ My Interests
  - 🌌 Aerospace Systems & Avionics
