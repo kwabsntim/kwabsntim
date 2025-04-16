@@ -33,4 +33,4 @@
 > *"Through learning we progress" (Per scientiam progredimur)*
 ---
 
-⭐ **Thanks for visiting my GitHub! Feel free to explore my repositories and say hi. Let's build the future together.*
+⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories and say hi. Let's build the future together.*
