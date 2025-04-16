@@ -12,7 +12,7 @@
 ## 👷 What I'm Working On
  🛰️ Participating in the [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
  📚 Building projects from my semester courses (Control Systems, AC Machines, AI, etc.)
- 🧠 Learning ML, LangChain, and local LLMs to generate educational tools
+ 🧠 Learning ML and local LLMs to generate educational tools
  🌦️ Creating a weather prediction dashboard using stats and real-time data
  🚀 Anticipating to build an ISS tracker app
     
