@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm *Kwabsntim*!
 
-<!--
-**kwabsntim/kwabsntim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm an Electrical Engineering student passionate about space, coding, and innovation**. I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍.*Hoping to share Ghana to the world 🇬🇭*.
 
-Here are some ideas to get you started:
+## 🛠️ My Interests
+ 🌌 Aerospace Systems & Avionics
+ 💡 Smart Homes & IoT Solutions
+ 🤖 Artificial Intelligence & Machine Learning
+ ⚡ Power Systems & Control Engineering
+ 📊 Data Science & Environmental Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👷 What I'm Working On
+ 🛰️ Participating in the [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
+ 📚 Building projects from my semester courses (Control Systems, AC Machines, AI, etc.)
+ 🧠 Learning ML, LangChain, and local LLMs to generate educational tools
+ 🌦️ Creating a weather prediction dashboard using stats and real-time data
+ 🚀 Anticipating to build an ISS tracker app
+    
+## 🧰 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+## 📫 Let's Connect
+- 🔗 [Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
+- 💬 Ask me anything about electronics, NASA, or projects!
+- 🌱 Always learning, always building.
+
+> *"Through learning we progress" (Per scientiam progredimur)*
+---
+
+⭐ **Thanks for visiting my GitHub! Feel free to explore my repositories and say hi. Let's build the future together.*
