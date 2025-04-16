@@ -3,11 +3,11 @@
 🚀 I'm an Electrical Engineering student passionate about space, coding, and innovation**. I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍.*Hoping to share Ghana to the world 🇬🇭*.
 
 ## 🛠️ My Interests
- 🌌 Aerospace Systems & Avionics
- 💡 Smart Homes & IoT Solutions
- 🤖 Artificial Intelligence & Machine Learning
- ⚡ Power Systems & Control Engineering
- 📊 Data Science & Environmental Tech
+ - 🌌 Aerospace Systems & Avionics
+ - 💡 Smart Homes & IoT Solutions
+ - 🤖 Artificial Intelligence & Machine Learning
+ - ⚡ Power Systems & Control Engineering
+ - 📊 Data Science & Environmental Tech
 
 ## 👷 What I'm Working On
 
@@ -26,7 +26,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 📫 Let's Connect
-- 🔗 [Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
+- 🔗 [My Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
 - 💬 Ask me anything about electronics, NASA, or projects!
 - 🌱 Always learning, always building.
 
