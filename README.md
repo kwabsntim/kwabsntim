@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm *Kwabsntim*!
+# 👋 Holla, *Kwabsntim* here!
 
-🚀 *I'm an Electrical Engineering student passionate about space, coding, and innovation**. I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍.*Hoping to share Ghana to the world 🇬🇭*.
+🚀 *  Electrical Engineering student passionate about space, coding, and innovation**. I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍.*Hoping to share Ghana to the world 🇬🇭*.
 
 ## 🛠️ My Interests
  - 🌌 Aerospace Systems & Avionics
@@ -11,10 +11,9 @@
 
 ## 👷 What I'm Working On
 
-- 📚 Building projects from my semester courses (`Control Systems`, `AC Machines`, `AI`, etc.)
+- 📚 Building "infonie" a local search browserr that workd fully offline
 - 🧠 Learning ML and local LLMs to generate educational tools
-- 🌦️ Creating a weather prediction dashboard using stats and real-time data
-- 🛰️ Anticipating to build an ISS tracker app
+- Building and learning by creating websites
     
 ## 🧰 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
