@@ -1,4 +1,4 @@
-# 👋 Holla, *Kwabsntim* here!
+# 👋 Hola, *Kwabsntim* here!
 
 🚀 *Electrical Engineering student passionate about space, coding, and innovation*. *I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍*.*Hoping to share Ghana to the world 🇬🇭*.
 
