@@ -11,7 +11,7 @@
 
 ## 👷 What I'm Working On
 
-- 📚 Building "infonie" a local search browserr that workd fully offline
+- 📚 Building "infonie" a local search browser that workes fully offline
 - 🧠 Learning ML and local LLMs to generate educational tools
 - Building and learning by creating websites
     
