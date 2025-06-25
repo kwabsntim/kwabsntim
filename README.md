@@ -26,12 +26,14 @@
 
 ## 📫 Let's Connect
 - 🔗 [My Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
+- 💬 Ask me anything about electronics, NASA, or projects!
+- 🌱 Always learning, always building.
+
 ## My stats:
    ### 📊 GitHub Stats
 ![Ntim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabsntim&show_icons=true&theme=radical)
 
-- 💬 Ask me anything about electronics, NASA, or projects!
-- 🌱 Always learning, always building.
+
 
 > *"Through learning we progress" (Per scientiam progredimur)*
 ---
