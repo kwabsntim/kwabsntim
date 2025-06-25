@@ -28,6 +28,8 @@
 - 🔗 [My Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
 - 💬 Ask me anything about electronics, NASA, or projects!
 - 🌱 Always learning, always building.
+  
+> *"Through learning we progress" (Per scientiam progredimur)*
 
 ## My stats:
    ### 📊 GitHub Stats
@@ -35,7 +37,6 @@
 
 
 
-> *"Through learning we progress" (Per scientiam progredimur)*
 ---
 
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories and say hi. Let's build the future together.*
