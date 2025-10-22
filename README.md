@@ -12,9 +12,9 @@
 
 ##  What I do lately...
 
--Actively building backend projects in Golang and exploring everything in between.
+- Actively building backend projects in Golang and exploring everything in between.
     
-##  Languages & Tools
+##  Things I use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
