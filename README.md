@@ -1,4 +1,4 @@
-# Yo!, *Kwabsntim* here!
+# Yo!, *kwabsntim* here!
 
 *Electrical Engineering student passionate about space, coding, and innovation*. *I dream of becoming an engineer, contributing to tech, and building smarter systems*.
 
