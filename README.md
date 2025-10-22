@@ -1,6 +1,6 @@
-# 👋 Hola, *Kwabsntim* here!
+# Yo!, *Kwabsntim* here!
 
-🚀 *Electrical Engineering student passionate about space, coding, and innovation*. *I dream of becoming an engineer, contributing to tech, and building smarter systems that can help my country and the world 🌍*.*Hoping to share Ghana to the world 🇬🇭*.
+*Electrical Engineering student passionate about space, coding, and innovation*. *I dream of becoming an engineer, contributing to tech, and building smarter systems.
 
 ## 🛠️ My Interests
  - 🌌 Aerospace Systems & Avionics
@@ -11,9 +11,7 @@
 
 ## 👷 What I'm Working On
 
-- 📚 Building "infonie" a local search browser that workes fully offline
-- 🧠 Learning ML and local LLMs to generate educational tools
-- Building and learning by creating websites
+-Actively building backend projects.
     
 ## 🧰 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,10 +24,8 @@
 
 ## 📫 Let's Connect
 - 🔗 [My Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
-- 💬 Ask me anything about electronics, NASA, or projects!
-- 🌱 Always learning, always building.
-  
-> *"Through learning we progress" (Per scientiam progredimur)*
+.
+
 
 ## My stats:
    ### 📊 GitHub Stats
@@ -40,6 +36,4 @@
 
 
 
----
 
-⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories and say hi. Let's build the future together.*
