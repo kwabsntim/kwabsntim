@@ -23,6 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=Golang&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Let's Connect
 - 🔗 [My Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
