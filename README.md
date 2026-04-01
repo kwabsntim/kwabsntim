@@ -1,42 +1,24 @@
-# Yo!, *kwabsntim* here!
 
-*Electrical Engineering student passionate about space, coding, and innovation*. *I dream of becoming an engineer, contributing to tech, and building smarter systems*.
+## Hi there
 
-##  My Interests
- -  Aerospace Systems & Avionics
- - Smart Homes & IoT Solutions
- -  Artificial Intelligence & Machine Learning
- -  Power Systems & Control Engineering
- -  Data Science & Environmental Tech
- -  Backend development
+I'm Ntim, an Electrical Engineering student focused on backend systems.
 
-##  What I do lately...
+- I’m currently working on backend engineering projects in Go
+- I enjoy building real-world systems and exploring system design, distributed systems, and data flow
+- I focus on learning through building and applying concepts deeply
 
-- Actively building backend projects in Golang and exploring everything in between.
-    
-##  Things I use
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=Golang&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## Languages and Tools:
 
-## Let's Connect
-- 🔗 [My Portfolio](https://ntimpythonanywhere.pythonanywhere.com)
-
-
-
-## My stats:
-   ###  GitHub Stats
-![Ntim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwabsntim&show_icons=true&theme=radical)
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwabsntim&layout=compact&theme=radical)
-
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
+</p>
 
 
 
