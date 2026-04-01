@@ -1,5 +1,5 @@
 
-## Hi there
+### Hi there
 
 `I'm Ntim, an Electrical Engineering student focused on backend systems.`
 
@@ -8,7 +8,7 @@
 - `Learning by building and applying concepts deeply`
 - `lately been exploring how i can use programming to draw using processing`
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go"/>
