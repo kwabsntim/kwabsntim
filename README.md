@@ -1,12 +1,12 @@
 
 ## Hi there
 
-`I'm Ntim, an Electrical Engineering student focused on backend systems.
+`I'm Ntim, an Electrical Engineering student focused on backend systems.`
 
-- `I’m currently working on backend engineering projects in Go
-- `I enjoy building real-world systems and exploring system design, distributed systems, and data flow
-- `I focus on learning through building and applying concepts deeply
-- `lately been exploring how i can use programming to draw using processing
+- `Building backend systems in Go`  
+- `Exploring distributed systems and system design  `
+- `Learning by building and applying concepts deeply`
+- `lately been exploring how i can use programming to draw using processing`
 
 ## Languages and Tools:
 
