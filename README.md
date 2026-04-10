@@ -1,7 +1,7 @@
 
 ### Hi there
 
-`I'm Ntim, an Electrical Engineering student focused on backend systems.`
+`I'm Ntim, a programmer.`
 
 - `Building backend systems in Go`  
 - `Exploring distributed systems and system design  `
