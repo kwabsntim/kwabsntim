@@ -5,7 +5,7 @@
 
 - `Building backend systems in Go`  
 - `Exploring distributed systems and system design  `
-- `Learning by building and applying concepts deeply`
+- `Learning by building and breaking things`
 - `lately been exploring how i can use programming to draw using processing`
 
 ### Languages and Tools:
