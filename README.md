@@ -1,7 +1,7 @@
 
 ### Hi there
 
-`I'm Ntim, a programmer.`
+`I'm Prince, a programmer.`
 
 - `Building backend systems in Go`  
 - `Exploring distributed systems and system design  `
