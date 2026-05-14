@@ -3,10 +3,8 @@
 
 `I'm Prince, a programmer.`
 
-- `Building backend systems in Go`  
-- `Exploring distributed systems and system design  `
-- `Learning by building and breaking things`
-- `lately been exploring how i can use programming to draw using processing`
+- `I may be a lot of things in one.love exploring the "ins" and "betweens" of things.I engineer and sometimes break.Currently i build projects that come to mind and i explore digital art using processing.`  
+
 
 ### Languages and Tools:
 
